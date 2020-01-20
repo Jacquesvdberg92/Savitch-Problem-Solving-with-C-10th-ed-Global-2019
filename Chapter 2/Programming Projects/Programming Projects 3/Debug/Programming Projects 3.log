@@ -1,0 +1,4 @@
+﻿  Programming Projects 3.cpp
+C:\Users\jacqu\Desktop\C++\Savitch Problem Solving with C++ 10th ed Global 2019\Chapter 2\Programming Projects\Programming Projects 3\Programming Projects 3.cpp(64,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\jacqu\Desktop\C++\Savitch Problem Solving with C++ 10th ed Global 2019\Chapter 2\Programming Projects\Programming Projects 3\Programming Projects 3.cpp(75,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Programming Projects 3.vcxproj -> C:\Users\jacqu\Desktop\C++\Savitch Problem Solving with C++ 10th ed Global 2019\Chapter 2\Programming Projects\Programming Projects 3\Debug\Programming Projects 3.exe
