@@ -29,10 +29,10 @@ int main()
     temp = minutes * 60; // calculates how many seconds in the whole amount of minutes
     seconds = seconds - temp; // calculates how many seconds remaining after minutes aas been subtracted
    
-    // this next bit is just a stupid way of making the double a one decimal point value by multiplying with 10 into an int value and the dividing back to a double from the int with 10
-    temp = (seconds * 10);
-    seconds = temp;
-    seconds = (seconds / 10);
+    // sets cout to show only 2 decimal points
+    cout.setf(ios::fixed);
+    cout.setf(ios::showpoint);
+    cout.precision(2);
 
 
     cout << "Your Pace is " << minutes << " Minutes and "  << seconds << " Seconds to a mile" << endl;
