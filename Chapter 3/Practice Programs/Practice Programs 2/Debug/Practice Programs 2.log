@@ -1,0 +1,5 @@
+﻿  Practice Programs 2.cpp
+C:\Users\jacqu\Documents\GitHub\Savitch-Problem-Solving-with-C-10th-ed-Global-2019\Chapter 3\Practice Programs\Practice Programs 2\Practice Programs 2.cpp(103,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacqu\Documents\GitHub\Savitch-Problem-Solving-with-C-10th-ed-Global-2019\Chapter 3\Practice Programs\Practice Programs 2\Practice Programs 2.cpp(123,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jacqu\Documents\GitHub\Savitch-Problem-Solving-with-C-10th-ed-Global-2019\Chapter 3\Practice Programs\Practice Programs 2\Practice Programs 2.cpp(127,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Practice Programs 2.vcxproj -> C:\Users\jacqu\Documents\GitHub\Savitch-Problem-Solving-with-C-10th-ed-Global-2019\Chapter 3\Practice Programs\Practice Programs 2\Debug\Practice Programs 2.exe
